@@ -1,3 +1,19 @@
 .App {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  margin: 72px auto; 
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #f7f7f7;
+}
+
+hr {
+  border: 0;
+  width: 96%;               
+  background-color:#ccc;
+  height: 1px;
 }

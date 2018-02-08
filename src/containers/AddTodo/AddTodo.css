@@ -1,0 +1,25 @@
+.AddTodo {
+  width: 90%;
+}
+
+.AddTodo input {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+.AddTodo button {
+  display: block;
+  margin: 5px 0;
+  margin-left: auto;
+  padding: 6px 16px;
+  color: white;
+}
+
+.Save {
+  background-color: #337ab7;
+  border: 1px solid #2e6da4;
+}

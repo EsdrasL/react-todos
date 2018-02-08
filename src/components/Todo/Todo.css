@@ -1,0 +1,38 @@
+.Todo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  margin: 8px 0;
+  padding: 8px;
+}
+
+.Todo-Btn {
+  margin-left: auto;
+}
+
+.Button {
+  margin: 0 2px;
+  cursor: pointer;
+  border-radius: 3px;
+  outline: none;
+  line-height: 1.5;
+  color: white;
+}
+
+.Success {
+  background-color: #5cb85c;
+  border: 1px solid #4cae4c;
+}
+
+.Danger {
+  background-color: #d9534f;
+  border: 1px solid #d43f3a;
+}
+
+.Done {
+  color: #3c763d;
+  background-color: #dff0d8;
+}
