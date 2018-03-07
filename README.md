@@ -6,3 +6,5 @@ Using:
 * Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+Link to the app: https://esdrasl.github.io/react-todos/
